@@ -32,3 +32,8 @@
    2. props와 state의 차이
    3. 컴포넌트의 생명주기와 생명주기 함수
    4. react hooks란, useState 사용하기
+6. 6일차 수업 (react 4)
+   1. useEffect 사용하기
+   2. useMemo 사용하기
+   3. useRef 사용하기
+   4. 커스텀 훅 사용하기
